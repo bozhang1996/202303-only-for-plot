@@ -1,0 +1,41 @@
+Isovaleric_acid	concentration	intensity
+Plot1	20	18858
+Plot2	40	39197
+Plot3	60	58740
+Plot4	80	77203
+Plot5	100	98100
+		
+Valeric_acid	concentration	intensity
+Plot1	20	13901
+Plot2	40	29068
+Plot3	60	43895
+Plot4	80	58264
+Plot5	100	71629
+		
+Butyric_acid	concentration	intensity
+Plot1	20	8592
+Plot2	40	17934
+Plot3	60	27035
+Plot4	80	35927
+Plot5	100	45124
+		
+Propionic_acid	concentration	intensity
+Plot1	20	3580
+Plot2	40	7360
+Plot3	60	10947
+Plot4	80	14504
+Plot5	100	18102
+		
+Isobutyric_acid	concentration	intensity
+Plot1	20	10043
+Plot2	40	21169
+Plot3	60	31766
+Plot4	80	41925
+Plot5	100	52904
+		
+Acetic_acid	concentration	intensity
+Plot1	20	29384
+Plot2	40	35753
+Plot3	60	43139
+Plot4	80	49409
+Plot5	100	54586
